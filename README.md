@@ -1,1 +1,5 @@
-# node-mongo-test-demo
+# demo-backend
+
+# Run 
+npm i
+npm start 
